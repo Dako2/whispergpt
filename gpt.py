@@ -1,7 +1,7 @@
 import os
 import openai 
 
-API_KEY = "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"
+API_KEY = "sk-.."
 
 def chatgpt_api(prompt, api_key = API_KEY): 
 
